@@ -1,0 +1,25 @@
+{
+  "name": "angular-routes-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Polygeekism/angular-routes-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Polygeekism/angular-routes-2/issues"
+  },
+  "homepage": "https://github.com/Polygeekism/angular-routes-2#readme",
+  "dependencies": {
+    "angular-route": "^1.6.6",
+    "express": "^4.15.4",
+    "pg": "^7.2.0"
+  }
+}
